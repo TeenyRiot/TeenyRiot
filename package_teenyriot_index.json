@@ -30,7 +30,7 @@
 				"toolsDependencies" : [
 										
 					{
-						"packager" : "digistump",
+						"packager" : "TeenyRiot",
 						"name" : "micronucleus",
 						"version" : "2.0a4"
 					}
