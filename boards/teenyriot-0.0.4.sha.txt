@@ -1,0 +1,6 @@
+commit 1d44a8249b934aaf4eaca9b1dfcbdd21ad429c4a
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sun Jan 3 12:29:56 2016 +0700
+
+    fix micronucleus path
+7871d211846b5401b111bf3cdb28f8945a23c94f0bb6bbe04b5e0fea0b6f1d15
