@@ -1,0 +1,6 @@
+commit 6aa8884111034aeb2468e182bf5835baf6c5c457
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sun Jan 3 11:54:58 2016 +0700
+
+    add support for micronucleus board
+860a80615fe572c55ff905620d5ae37ad1944cf4bcf9792f185b422d516849eb
