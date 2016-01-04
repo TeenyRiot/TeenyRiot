@@ -1,0 +1,6 @@
+commit 8f42aa35f50f0cdcbf51ca8c94561a9dbe3e94ae
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Jan 4 10:54:25 2016 +0700
+
+    update to latest teenyserial
+ab2c41f1163b9d9085e7f33c600e0959ec958de65774b1e28c844a2a892237e9
