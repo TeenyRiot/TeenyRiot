@@ -1,0 +1,6 @@
+commit 57b2cf779a255179df4b3e8033c618717594e559
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Mar 7 11:42:48 2016 +0100
+
+    platform.txt update for ide 1.6.6+
+fa9dfd0d3ebcd063f093133efdd9f5ba658c08fa7549d9afd18a520ec00d4191
