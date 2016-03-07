@@ -261,6 +261,27 @@
 				"toolsDependencies" : [
 					
 				]
+			},			{
+				"name" : "TeenyRiot",
+				"architecture" : "avr",
+				"version" : "0.0.13",
+				"category" : "contributed",
+				"url" : "http://teenyriot.github.io/TeenyRiot/boards/teenyriot-0.0.13.tar.gz",
+				"archiveFileName" : "teenyriot-0.0.13.tar.gz",
+				"checksum" : "SHA-256:385047c32778cf5774803adde4ee1f2fb5bde6f87303a015943756f4dd26968c",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/TeenyRiot/TeenyRiot"
+				},
+				"boards" : [
+										
+					{
+						"name" : "TeenyRiot"
+					}
+				],
+				"toolsDependencies" : [
+					
+				]
 			}
 			],
 			"tools" : [
