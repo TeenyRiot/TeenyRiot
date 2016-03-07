@@ -1,0 +1,6 @@
+commit 5f07da834b5671587f30ae05b2703ded93e45fbc
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Mar 7 14:09:39 2016 +0100
+
+    add SPI
+bc48a6c4182e5a5b31a6f5d7efc4e46de0108c08d481e616160d6576e18ca779
