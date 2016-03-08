@@ -1,0 +1,6 @@
+commit 04120d50e443b99c19974bf6e2b7de9971b4a891
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Wed Mar 9 00:16:10 2016 +0100
+
+    bugfix rename libreadline
+882bf6307cccf4fd51e858b1877efa64c265f83751a9dd5ced178ff205f926b9
