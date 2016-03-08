@@ -1,0 +1,6 @@
+commit 88d6a720abacdf6f4ef00bff7e34b765b2b1b0fd
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Tue Mar 8 12:50:36 2016 +0100
+
+    add libreadline to avrdude for linux
+f6b2ee69533b2b014e0b3d59d070aa0c48f3a8573158f2ac93031606d8228354
