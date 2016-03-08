@@ -1,0 +1,7 @@
+commit 339b8a7f23d25d1fe6106c090d6a11569de23eb8
+Merge: b5d448c 329d076
+Author: stahl <office@stahlnow.com>
+Date:   Tue Mar 8 15:32:38 2016 +0100
+
+    Merge branch 'master' of github.com:TeenyRiotDevel/TeenyRiotAVR
+1dc2e182662d4e1a7f4c69af5ba7abc2792f533033e2daf76f36ab15fc61b098
