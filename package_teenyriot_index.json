@@ -28,7 +28,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -49,7 +54,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -70,7 +80,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -91,7 +106,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -112,7 +132,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -133,7 +158,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -154,7 +184,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -175,7 +210,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -196,7 +236,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -217,7 +262,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -238,7 +288,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -259,7 +314,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -280,7 +340,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -301,7 +366,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -322,7 +392,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -343,7 +418,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -364,7 +444,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -385,7 +470,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -406,7 +496,12 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			},			{
 				"name" : "TeenyRiot",
@@ -427,12 +522,51 @@
 					}
 				],
 				"toolsDependencies" : [
-					
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
 				]
 			}
 			],
 			"tools" : [
-			  
+			    {
+             "name": "micronucleus",
+             "version": "2.0a4",
+             "systems": [
+               {
+                 "host": "x86_64-apple-darwin",
+                 "archiveFileName": "micronucleus-2.0a4-osx.tar.gz",
+                 "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-osx.tar.gz",
+                 "checksum": "SHA-256:B5EB0C7B251CD88F4816186BB931855834141E71A28D90FB9E46788E483AA421",
+                 "size": "51203"
+               },
+               {
+                 "host": "i686-mingw32",
+                 "archiveFileName": "micronucleus-2.0a4-win.zip",
+                 "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-win.zip",
+                 "checksum": "SHA-256:7738d2a2a46a13771ac567ca3797a4867bcb802e7ca12e41941448645b035c6c",
+                 "size": "1712001"
+               },
+               {
+                 "host": "i686-linux-gnu",
+                 "archiveFileName": "micronucleus-2.0a4-linux32.tar.gz",
+                 "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-linux32.tar.gz",
+                 "checksum": "SHA-256:0D4286388EED28D1ECB29AFE81253F24F54D4F0A5C1B2C17507EABD504C595F8",
+                 "size": "21909"
+               },
+               {
+                 "host": "x86_64-linux-gnu",
+                 "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
+                 "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-linux64.tar.gz",
+                 "checksum": "SHA-256:1F545C0BB60E85A604901C2D7044772AC91776594C209C571DFEDAD4A70195B8",
+                 "size": "22874"
+               }
+
+             ]
+           }
 				    ]
 				  }
 			]
