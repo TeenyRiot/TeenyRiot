@@ -16,7 +16,7 @@
 				"category" : "contributed",
 				"url" : "http://teenyriot.github.io/TeenyRiot/boards/teenyriot-0.0.1.tar.gz",
 				"archiveFileName" : "teenyriot-0.0.1.tar.gz",
-				"checksum" : "SHA-256:26e798e3a619ad461e228f13412562704c2513b22e6c5c8b1f8566d014abcd39",
+				"checksum" : "SHA-256:6883ff85675c201acbcff6db663453f459e34ae191d9d853ba77c0e65457d2ea",
 				"size" : "",
 				"help" : {
 					"online" : "https://github.com/TeenyRiot/TeenyRiot"
@@ -511,6 +511,32 @@
 				"url" : "http://teenyriot.github.io/TeenyRiot/boards/teenyriot-0.0.20.tar.gz",
 				"archiveFileName" : "teenyriot-0.0.20.tar.gz",
 				"checksum" : "SHA-256:882bf6307cccf4fd51e858b1877efa64c265f83751a9dd5ced178ff205f926b9",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/TeenyRiot/TeenyRiot"
+				},
+				"boards" : [
+										
+					{
+						"name" : "TeenyRiot"
+					}
+				],
+				"toolsDependencies" : [
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
+				]
+			},			{
+				"name" : "TeenyRiot",
+				"architecture" : "avr",
+				"version" : "0.0.21",
+				"category" : "contributed",
+				"url" : "http://teenyriot.github.io/TeenyRiot/boards/teenyriot-0.0.21.tar.gz",
+				"archiveFileName" : "teenyriot-0.0.21.tar.gz",
+				"checksum" : "SHA-256:9acf473106a22fc5af026cbfc02b2d60d64515a217303da3e80ede39cf6ac8c0",
 				"size" : "",
 				"help" : {
 					"online" : "https://github.com/TeenyRiot/TeenyRiot"

@@ -1,0 +1,6 @@
+commit 82a28d63a8c3a895c4e0b91c5ddb46070b8c0e12
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Mar 14 15:17:12 2016 +0100
+
+    update avrdude ascii art
+9acf473106a22fc5af026cbfc02b2d60d64515a217303da3e80ede39cf6ac8c0
