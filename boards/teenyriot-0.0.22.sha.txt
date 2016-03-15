@@ -1,0 +1,6 @@
+commit 2f45f3250ce7add314e85f2830b875cd6cfa28c6
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Tue Mar 15 12:02:10 2016 +0100
+
+    update avrdude windows arduino timing bug fix
+8e4afb36fc3b561246094b3abd99d8cb7afc3059534be83a02d69412382c9648
