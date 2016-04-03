@@ -581,6 +581,32 @@
 						"version" : "2.0a4"
 					}
 				]
+			},			{
+				"name" : "TeenyRiot",
+				"architecture" : "avr",
+				"version" : "0.0.23",
+				"category" : "contributed",
+				"url" : "http://teenyriot.github.io/TeenyRiot/boards/teenyriot-0.0.23.tar.gz",
+				"archiveFileName" : "teenyriot-0.0.23.tar.gz",
+				"checksum" : "SHA-256:759e36bc60d97caa9f06f51b1a2204df78743e5958fe65455d9d16449e5b5b0b",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/TeenyRiot/TeenyRiot"
+				},
+				"boards" : [
+										
+					{
+						"name" : "TeenyRiot"
+					}
+				],
+				"toolsDependencies" : [
+										
+					{
+						"packager" : "TeenyRiot",
+						"name" : "micronucleus",
+						"version" : "2.0a4"
+					}
+				]
 			}
 			],
 			"tools" : [
@@ -613,7 +639,7 @@
                  "host": "x86_64-linux-gnu",
                  "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
                  "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-linux64.tar.gz",
-                 "checksum": "SHA-256:1F545C0BB60E85A604901C2D7044772AC91776594C209C571DFEDAD4A70195B8",
+                 "checksum": "SHA-256:0d4286388eed28d1ecb29afe81253f24f54d4f0a5c1b2c17507eabd504c595f8",
                  "size": "22874"
                }
 

@@ -1,0 +1,6 @@
+commit af01741104e721b780a614a8787c04cd27db91c8
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sun Apr 3 13:40:43 2016 +0200
+
+    add attiny 85 and 84 to the board selection
+759e36bc60d97caa9f06f51b1a2204df78743e5958fe65455d9d16449e5b5b0b
