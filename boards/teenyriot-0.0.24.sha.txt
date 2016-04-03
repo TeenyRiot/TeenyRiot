@@ -1,0 +1,6 @@
+commit ab2845dccce25147bd248199b11e7e1ee1ffcf4d
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sun Apr 3 13:46:02 2016 +0200
+
+    change plain attiny to teenyriot-core
+8ed05c3aee1851019e9c7da8553024ad298741695544930d8d7d6babed4e9f8b
