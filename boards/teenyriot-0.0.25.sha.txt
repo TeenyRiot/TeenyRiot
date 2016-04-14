@@ -1,0 +1,6 @@
+commit f150ed8202720b825d8c1b9cfef0c67a26423535
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Thu Apr 14 13:39:35 2016 +0200
+
+    change usbtiny to turbo (2 sec wait)
+0ca43a92dd0b51b220a594b07ebb5af3fbe854862852a5888f08bc17534d2ac1
