@@ -1,0 +1,6 @@
+commit c35673ad4b7fc14f64de5dba0d01d86bf8046852
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Tue May 3 00:58:15 2016 +0700
+
+    update synth
+76d3a583db1b47299e695374e9487a2177ac4810f99b61caef1449255dcb1685
